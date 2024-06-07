@@ -22,6 +22,10 @@ To forecast the output parameters of serverless computing, we employ a decision 
 | Func 4                | 256              | 200           | 45                  | 7                    |
 | Func 5                | 128              | 175           | 70                  | 9                    |
 
+<img width="507" alt="Parameter_distribution" src="https://github.com/Nikhil-707/serverless-computing-for-emergencies/assets/139217655/f77b53ad-1d18-494b-902e-854d1eec4d75">
+
+
+
 **Performance Metrics:**
 
 - **Memory Used**: MSE - 7692.59 MB
@@ -51,7 +55,8 @@ We use a random forest model to analyze the importance of each input parameter i
 
 **Feature Importances:**
 
-![Feature Importances](Pictures/feature_importances.png)
+<img width="511" alt="feature_importances" src="https://github.com/Nikhil-707/serverless-computing-for-emergencies/assets/139217655/3338ddb8-4fd2-4f07-8096-24f05efc639b">
+
 
 ## 🆚 Comparison between Serverless and Traditional Computing
 
@@ -59,7 +64,8 @@ We conduct a comparative analysis between serverless computing and traditional c
 
 **Box Plot Comparison:**
 
-![Comparison Box Plot](Pictures/comparison_box_plot.png)
+
+<img width="518" alt="comparison_box_plot" src="https://github.com/Nikhil-707/serverless-computing-for-emergencies/assets/139217655/f72fcf0c-d699-4a99-a883-94c484661d35">
 
 **T-test p-values for Performance Metrics:**
 
